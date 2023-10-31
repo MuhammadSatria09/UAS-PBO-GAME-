@@ -1,6 +1,7 @@
 # Circle Power 
 
-A simple game inspired by the genre of Rougelike games, Inspiration in mind `(Holocure,Vampire survivor,Surivor.io)`
+A simple game inspired by the genre of Rougelike games, Inspiration in mind 
+`(Holocure,Vampire survivor,Surivor.io)`
 
 # Game Instruction
 
